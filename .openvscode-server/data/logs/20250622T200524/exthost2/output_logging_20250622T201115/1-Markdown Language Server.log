@@ -1,0 +1,12 @@
+[Trace 20:11:33.151] VsCodeClientWorkspace: TextDocument.onDidOpen: vscode-local:/README.md
+[Trace 20:11:33.152] VsCodeClientWorkspace: TextDocument.onDidChanceContent: vscode-local:/README.md
+[Trace 20:11:33.154] Server: connection.languages.diagnostics.on: vscode-local:/README.md
+[Trace 20:11:33.156] Server: connection.languages.diagnostics.on: vscode-local:/README.md
+[Trace 20:11:33.191] DocumentSymbolProvider: provideDocumentSymbols — vscode-local:/README.md 1
+[Debug 20:11:33.191] LinkProvider: compute - vscode-local:/README.md
+[Debug 20:11:33.761] MdFoldingProvider: provideFoldingRanges — vscode-local:/README.md 1
+[Debug 20:11:33.762] TableOfContentsProvider: create - vscode-local:/README.md
+[Trace 20:20:22.853] Server: connection.languages.diagnostics.on: vscode-local:/README.md
+[Trace 20:20:27.450] Server: connection.languages.diagnostics.on: vscode-local:/README.md
+[Debug 20:20:27.931] MdFoldingProvider: provideFoldingRanges — vscode-local:/README.md 1
+[Trace 20:20:32.145] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///root/README.md
